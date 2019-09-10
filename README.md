@@ -1,2 +1,2 @@
 # kagglesolutions.sanjoypaul
-its my portfolio repositotry
+### Its my portfolio repositotry for Kaggle competition projects.
